@@ -17,11 +17,9 @@ import com.alibaba.fastjson.JSONObject;
 import wusc.edu.demo.mqtest.params.MailParam;
 
 /**
- * 
- * @描述: MQ消息生产者 .
- * @作者: WuShuicheng .
- * @创建时间: 2015-3-17,下午10:55:30 .
- * @版本号: V1.0 .
+ * MQ消息生产者 .
+ * @author Administrator
+ *
  */
 @Service("mqProducer")
 public class MQProducer {
